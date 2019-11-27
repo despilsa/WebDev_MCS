@@ -1,0 +1,9 @@
+@import url(reset.css);
+
+img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GboroSP_Wetland.jpg/480px-GboroSP_Wetland.jpg"] {
+	width: 300px;
+}
+
+img[alt="leto"] {
+	width: 600px;
+}
